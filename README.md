@@ -1,3 +1,3 @@
-# BrewMantra
+# BrewBhai
 
 ## Contact: brewmantra@gmail.com
