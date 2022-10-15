@@ -1,3 +1,3 @@
-# brewmantra.github.io
+# BrewMantra
 
 ## Contact: brewmantra@gmail.com
